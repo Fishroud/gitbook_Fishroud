@@ -1,11 +1,11 @@
   # Summary
 
   * [鱼子酱的使用指北](README.md)
-  * [预备周：基于认知科学的信息训练法](ch0/preface.md)
-      * [检索实操](ch0/RepSearchPractice.md)
-      * [基础任务](ch0/RepTaskBasic.md)_
-      * [进阶任务](ch0/RepTaskAdvanced.md)
-      * [个人教程](ch0/handbook.md)
+  * [坦克世界战绩查询](wot.md)
+      * [端游亚服/欧服/美服查询](wotpc.md)
+      * [手游亚服查询](wotb.md)
+      * [绑定与解绑](bind.md)
+      * [个人状态查询](wotstate.md)
   * [第一讲：从现实问题到学科信息](ch1/README.md)
       * [检索实操](ch0/RepSearchPractice.md)
       * [基础任务](ch1/RepTaskBasic.md)
