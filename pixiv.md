@@ -1,8 +1,8 @@
-## pixivͼƬ����
+## pixiv图片搜索
 ***
-#### ���û����͵�ͼƬ��pixiv�������������ܻ��нϴ����
+#### 将用户发送的图片在pixiv进行搜索，可能会有较大出入
 
-**ʵ����ַ��[SauceNAO](https://saucenao.com/)**
+**实现网址：[SauceNAO](https://saucenao.com/)**
 
 >SauceNAO is a reverse image search engine. The name 'SauceNAO' is derived from a slang form of "Need to know the source of this Now!" which has found common usage on image boards and other similar sites.
 
@@ -16,10 +16,10 @@
 
 >Questions, comments, or concerns? E-Mail Xamayon, or drop by #IQDB on the Rizon IRC network.
 
-**ָ��:** `���ӽ�����ͼ`
+**指令:** `鱼子酱，搜图`
 
-**ע�⣺** 
-* ��ȴ����ӽ��ظ�`->�뷢��ͼƬ`���ٷ��ʹ�������ͼƬ
-* �����ӽ�����`->�뷢��ͼƬ`����30s�ڷ�����Ҫ������ͼƬ
+**注意：** 
+* 请等待鱼子酱回复`->请发送图片`后再发送待搜索的图片
+* 当鱼子酱发送`->请发送图片`请在30s内发送需要搜索的图片
 
-~~�����Ѷ��΢��һ�����Ϣ����������~~
+~~娘的腾讯稍微长一点的消息都给我屏蔽~~
