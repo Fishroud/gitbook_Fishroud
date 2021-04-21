@@ -11,7 +11,7 @@
 
 
 摄影：ITDNZJ
-![鱼子酱立牌近照](image/lipai1.jpg)
+![鱼子酱立牌近照](image/lipai1.png)
 
 
 如果摆在桌子上的话，每天都是大吉呢
