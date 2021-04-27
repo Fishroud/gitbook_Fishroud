@@ -3,7 +3,7 @@
 ![鱼子酱](image/caviar.png)
 ### 写在前面
 鱼子酱是一位免费、服务于QQ、基于[先驱机器人](https://www.xianqubot.com/)的QQ机器姬。
-* 鱼子酱[冻结中]（2580769314）![state](http://api.fishroud.xyz/state/?state=frozen)
+* 鱼子酱[冻结中]（2580769314）![state](http://api.fishroud.xyz/state/?state=online)
 * 鱼子酱origin[运行中]（919007352）![state](http://api.fishroud.xyz/state/?state=online)
 
 **注意**
