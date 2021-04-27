@@ -2,7 +2,9 @@
 ***
 ![鱼子酱](image/caviar.png)
 ### 写在前面
-鱼子酱是一位免费、服务于QQ、基于[先驱机器人](https://www.xianqubot.com/)的QQ机器姬，人设为女。主要服务于**坦克世界**相关群聊并提供**战绩查询**服务。
+鱼子酱是一位免费、服务于QQ、基于[先驱机器人](https://www.xianqubot.com/)的QQ机器姬。
+* 鱼子酱[冻结中]（2580769314）![state](http://api.fishroud.xyz/state/?state=freezing)
+* 鱼子酱origin[正在运行]（919007352）![state](http://api.fishroud.xyz/state/?state=online)
 
 **注意**
 * 本机器人完全免费且永远不会收费
@@ -19,11 +21,9 @@
 **鱼子酱目前开放且不需要权限的有如下功能**
 * 坦克世界战绩查询
 * steam游戏监控
-* pixiv图片搜索
 * bilibili相关功能
 * 入群欢迎
-* 其他
-* 正在进行的项目 
+* 其他随手写的小功能 
 
 
 ***
