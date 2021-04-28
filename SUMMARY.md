@@ -1,6 +1,6 @@
   # Summary
 
-  * [鱼子酱的使用指北](start.md)
+  * [鱼子酱的使用指北](README.md)
   * [坦克世界战绩查询](wot.md)
       * [端游亚服/欧服/美服查询](wotpc.md)
       * [手游亚服查询](wotb.md)
