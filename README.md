@@ -1,6 +1,9 @@
 # 鱼子酱的食用指北
 ***
 ![鱼子酱](image/caviar.png)
+
+![](https://img.shields.io/badge/%E7%94%A8%E6%88%B7%E8%AE%B0%E5%BD%95%E6%95%B0-7000%2B-brightgreen) ![](https://img.shields.io/badge/%E5%A5%BD%E5%8F%8B%E6%95%B0%E9%87%8F-1000%2B-orange) ![](https://img.shields.io/badge/%E6%97%A5%E6%B4%BB%E8%B7%83%E7%94%A8%E6%88%B7-1300%2B-blue) 
+
 ### 写在前面
 鱼子酱是一位免费、服务于QQ、基于[先驱机器人](https://www.xianqubot.com/)的QQ机器姬。
 * 鱼子酱[冻结中]（2580769314）![state](http://api.fishroud.xyz/state/?state=freeze)
