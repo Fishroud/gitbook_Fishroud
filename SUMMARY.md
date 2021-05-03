@@ -9,6 +9,7 @@
   * [pixiv图片搜索](pixiv.md)
   * [入群欢迎设置](welcome.md)
   * [bilibili相关功能](bilibili.md)
+  * [鱼子酱心跳系统](heartbeat.md)
   * [其他功能](others.md)
   * [相关活动](activity.md)
   * [致谢](thanks.md)
