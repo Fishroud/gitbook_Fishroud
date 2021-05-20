@@ -6,11 +6,13 @@
 `http://api.fishroud.xyz/`
 
 **响应数据**
+
 | 字段 | 类型 | 说明 |
 | :----:| :----:|:----:|
 | `title` | string | 标题 |
 | `request` | string | 若访问成功则为success |
 | `msg` | string | 毒鸡汤 |
+
 
 ```json
 {
@@ -25,7 +27,9 @@
 **GET** 
 `http://api.fishroud.xyz/arknights.php`
 
+
 **响应数据**
+
 | 字段 | 类型 | 说明 |
 | :----:| :----:|:----:|
 | `request` | string | 若访问成功则为success |
@@ -33,6 +37,7 @@
 | `id` | int | 条目号 |
 | `msg` | string | 舟游圣经 |
 | `length` | int | msg长度 |
+
 
 ```json
 {
@@ -51,12 +56,14 @@
 `http://api.fishroud.xyz/poem.php`
 
 **响应数据**
+
 | 字段 | 类型 | 说明 |
 | :----:| :----:|:----:|
 | `request` | string | 若访问成功则为success |
 | `title` | string | 标题|
 | `id` | int | 条目号 |
 | `msg` | string | 随机一句诗 |
+
 
 ```json
 {
