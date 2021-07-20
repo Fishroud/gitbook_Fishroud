@@ -11,6 +11,7 @@
 * 贰狐
 * Ellison Clock
 * 呐呐
+* 雨宫澪@AmamiyaMio
 * 夜鸢
 * 落清
 * 小邬
