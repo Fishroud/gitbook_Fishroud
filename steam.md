@@ -11,31 +11,7 @@
 
 * 点击steam客户端右上角个人昵称，选择**账户明细**选项，即可看到自己的steam ID（64位）
 
-### 无需绑定就能使用的功能
 
-***
-
-**指令:**
-* `https://steamcommunity.com/profiles/[steam64位ID]/`
-* `/steam[steam64位ID]`
-
-直接发送个人资料页面的url或者使用/steam后接64位id
-
-**正确示例：**  
-指令：
-* `https://steamcommunity.com/profiles/76561198797703039/`
-* `/steam76561198797703039`
-
-返回:
-```
-#鱼子酱好像发现了社区url！
-
-SteamName：Fishroud
-两周内游玩30款游戏
-最近在玩：
-Portal
-总游戏时长：3.22h
-```
 
 ### 向鱼子酱绑定steam账户
 
@@ -54,7 +30,8 @@ Portal
 
 返回:
 ```
-Done!鱼仙->Fishroud
+[steam头像]
+绑定成功!鱼仙->Fishroud
 ```
   
  
@@ -89,14 +66,14 @@ Tom Clancy's Rainbow Six Siege
 **正确示例：**  
 指令： `*现在鱼仙在玩啥`
 
-返回情况一:
+若昵称下账号未在游玩游戏:
 ```
 #让鱼子酱偷瞄一下...
 
 #鱼仙当前并没有玩任何游戏哦
 ```
 
-返回情况二:
+若昵称下账号正在游玩游戏:
 ```
 #让鱼子酱偷瞄一下...
 
@@ -137,16 +114,42 @@ LiEat
 [图片]
 ```
 
-~~呲溜~~
-### steam游戏监控及自动播报
+### 无需绑定就能使用的功能
 
-**鱼子酱会对特定用户进行游戏监听，当用户开始进行游戏时会自动在特定群进行广播，该功能未开放**
+***
+
+**指令:**
+* `https://steamcommunity.com/profiles/[steam64位ID]/`
+* `/steam[steam64位ID]`
+
+直接发送个人资料页面的url或者使用/steam后接64位id
+
+**正确示例：**  
+指令：
+* `https://steamcommunity.com/profiles/76561198797703039/`
+* `/steam76561198797703039`
+
+返回:
+```
+#鱼子酱好像发现了社区url！
+
+SteamName：Fishroud
+两周内游玩30款游戏
+最近在玩：
+Portal
+总游戏时长：3.22h
+```
+
+
+### steam游戏监控及自动播报（未开放）
+
+**鱼子酱会对特定用户进行游戏监听，当用户开始进行游戏时会自动在特定群进行广播**
 ```
 Fishroud开始游玩：
-Seek Girl
+War Thunder
 [图片]
 ```
 
-社会性死亡（
+
 
 

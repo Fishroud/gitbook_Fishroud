@@ -67,19 +67,19 @@
 
 ***
 
-### 即将实现的功能
+### Todo：
 #### 代码PHP + 数据库重构
-* steam相关功能
-* bilibili监控功能
-* 好感度功能
-* 坦克世界查询功能
+* steam相关功能 √
+* bilibili监控功能 √
+* 好感度功能 
+* 坦克世界查询功能 √
 
 #### 鱼子酱互动功能
-* 互动指令与好感度等级回复
-* 对于特定好感度下的专属回复
+* 互动指令与好感度等级回复 √
+* 对于特定好感度下的专属回复 √
 
 #### war of warship
-* 模糊id搜索绑定
-* 战绩查询
+* 模糊id搜索绑定 √
+* 战绩查询 
 
 **资料来源：[Wargaming Api Reference](https://developers.wargaming.net/reference/all/wot/account/list/?r_realm=ru)**
