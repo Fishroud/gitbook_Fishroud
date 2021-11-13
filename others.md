@@ -1,12 +1,33 @@
 ﻿
 
 ### 今日人品
-**今日人品是根据各位的QQ号、日期等在一天当中不变的常量计算得出的离散随机数，并不会对各位的游戏体验、鱼子酱的使用产生影响。**
+**今日人品是根据各位的uid、日期等在一天当中不变的常量计算得出的随机数，并不会对各位的游戏体验、鱼子酱的使用产生影响。**
 
 提示：在2021.4.15日后，今日人品的刷新时间已改为每日凌晨四点
 
-```
-【函数散列>=<【计算（【进制【文本-取出右边【取MD5【计算【发送者QQ】\(【现行日期-月】+【现行日期-日】+【现行日期-年】)+【现行日期-日】】[参数3]】>=<8】>=<16>=<10】%【计算[参数2]-（[参数1]）+1】）+（[参数1]）】】
+```python
+import datetime
+import hashlib
+
+def hex2dec(string_num):
+    return str(int(string_num.upper(), 16))
+
+def jrrp(id ,min ,max ,seed):
+    
+    today = datetime.date.today()
+    year = today.year
+    month = today.month
+    day = today.day
+    
+    md5 = id / (year + month + day) + day
+    md5 = str(int(md5)) + str(seed)
+    md5 = md5.encode('utf-8')
+    m = hashlib.md5()
+    m.update(md5)
+    md5 = m.hexdigest()
+    md5 = hex2dec(md5[-8:])
+    result = int(md5) % (max - (min) + 1) + (min)
+    return result
 ```
 
 **指令：** `今日人品`
