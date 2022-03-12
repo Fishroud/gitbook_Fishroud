@@ -1,6 +1,9 @@
 ## bilibili相关功能
 ***
 ### bilibili链接解析
+
+**插件开源地址：[OlivaBilibiliPlugin](https://github.com/Fishroud/OlivaBilibiliPlugin)**
+
 从现在开始，鱼子酱将自动解析发送到群内的如下内容
 
 * AV号

@@ -13,14 +13,14 @@ def hex2dec(string_num):
     return str(int(string_num.upper(), 16))
 
 def jrrp(id ,min ,max ,seed):
-    
+
     today = datetime.date.today()
-    year = today.year
-    month = today.month
-    day = today.day
-    
-    md5 = id / (year + month + day) + day
-    md5 = str(int(md5)) + str(seed)
+    year = str(today.year)
+    month = str(today.month)
+    day = str(today.day)
+
+    md5 = str(id) + year + month + day
+    md5 = str(md5) + str(seed)
     md5 = md5.encode('utf-8')
     m = hashlib.md5()
     m.update(md5)
@@ -44,13 +44,37 @@ def jrrp(id ,min ,max ,seed):
 
 > 没事打开http://www.nows.fun/ 毕竟人生苦短都没苦笑过有什么意思！
 
+
+
 **指令：** `塔罗牌抽取`
 
 * 来抽随机抽一张塔罗牌吧
 
 ***
+### Wordscloud词云
+**词云功能会自动将消息记录中的句子拆分统计为词语并统计次数，收到指令后会生成一张与词频有关的图片**
 
-### 鱼子酱贴心提醒功能
+**插件开源地址：[OlivaWordCloud](https://github.com/Fishroud/OlivaWordCloud)**
+
+**指令：**：`wordcloud`
+
+***
+### 更改鱼子酱对自己的称呼
+**自定义鱼子酱对你的称呼，不需要添加中括号，长度限制为20个字节。默认调用QQ昵称，以后的更多功能或许会用到**
+
+**指令：**：`鱼子酱，叫我[自定义昵称]`
+
+***
+
+### 快速反馈意见
+
+**使用指令`鱼子酱，反馈[bug反馈及建议]`可快速向维护者反馈建议，不需要添加中括号，请勿滥用**
+
+***
+
+
+
+### 鱼子酱贴心提醒功能（正在维护）
 
 **在群聊中向鱼子酱添加对指定用户的提醒消息后，鱼子酱将会在该用户下次发言时发送你所提交的提醒信息**
 
@@ -71,20 +95,6 @@ def jrrp(id ,min ,max ,seed):
 1.2021-04-07 22:00:42
 来自xxxxxxx：来打彩虹六号
 ```
-
-***
-
-
-### 更改鱼子酱对自己的称呼
-**自定义鱼子酱对你的称呼，不需要添加中括号，长度限制为20个字节。默认调用QQ昵称，以后的更多功能或许会用到**
-
-**指令：**：`鱼子酱，叫我[自定义昵称]`
-
-***
-
-### 快速反馈意见
-
-**使用指令`鱼子酱，反馈[bug反馈及建议]`可快速向维护者反馈建议，不需要添加中括号，请勿滥用**
 
 ***
 

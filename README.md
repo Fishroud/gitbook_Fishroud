@@ -1,7 +1,7 @@
 
 
 # 鱼子酱的食用指北
-最后更新于2021-11-07 12:34
+最后更新于2023-03-12
 
 ***
 
@@ -14,9 +14,9 @@
 
  
 ### 写在前面
-鱼子酱是一位免费、服务于QQ、基于[先驱机器人](https://www.xianqubot.com/)的QQ机器姬。
-* 鱼子酱[运行中]（2580769314）![state](http://api.fishroud.xyz/heartbeat/?qq=2580769314)
-* 鱼子酱origin[休假中]（919007352）![state](http://api.fishroud.xyz/state/?state=offline)
+鱼子酱是一位免费、服务于QQ、基于[go-cqhttp](https://github.com/Mrs4s/go-cqhttp)的QQ机器姬。
+* 鱼子酱[主号]（2580769314）
+* 鱼子酱origin[备用机]（919007352）
 
 **注意**
 * 本机器人完全免费且永远不会收费

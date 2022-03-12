@@ -12,6 +12,8 @@
 
 **实现网址：[SauceNAO](https://saucenao.com/)**
 
+**插件开源地址：[OlivaImageSearch](https://github.com/Fishroud/OlivaImageSearch)**
+
 >SauceNAO is a reverse image search engine. The name 'SauceNAO' is derived from a slang form of "Need to know the source of this Now!" which has found common usage on image boards and other similar sites.
 
 
@@ -27,5 +29,5 @@
 **指令:** `鱼子酱，搜图`
 
 **注意：** 
-* 请等待鱼子酱回复`->请发送图片`后再发送待搜索的图片
-* 当鱼子酱发送`->请发送图片`请在30s内发送需要搜索的图片
+* 请等待鱼子酱回复`请发送待查询的图片(ゝ∀･)☆`后再发送待搜索的图片
+* 当鱼子酱发送`请发送待查询的图片(ゝ∀･)☆`请在30s内发送需要搜索的图片
